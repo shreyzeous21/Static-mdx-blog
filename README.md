@@ -4,7 +4,7 @@
  <img src="https://i.imgur.com/VgnktQH.png" width="400">
 </p>
 
-In this repo is a simple implementation of a markdown static blog, a demo can be seen [here]([(https://mdx-static-blog.netlify.app/)]), Features include:
+In this repo is a simple implementation of a markdown static blog, a demo can be seen [here-NETLIFY || Site]([(https://mdx-static-blog.netlify.app/)]), Features include:
 - MDX Components
 - Shadcn UI
 - Pagination
